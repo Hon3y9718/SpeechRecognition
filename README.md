@@ -17,8 +17,9 @@ Replace the Model path in SpeechRecognition Class constructor.
   
 - pyaudio
   - ``pip install pyaudio``
+
   Note: If pip doesn't work download whl from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
   
 - That's it. Believe me. 😇
 
-For any support or help contact me (https://www.instagram.com/techicious_)
+For any support or help contact me at [Instagram](https://www.instagram.com/techicious_)
