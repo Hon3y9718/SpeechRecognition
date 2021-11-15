@@ -4,7 +4,8 @@ Recognizes Speech offline
 ## Download Model required from here
 Default Model used is Indian English...
 
-Replace the Model path in SpeechRecognition Class constructor
+Replace the Model path in SpeechRecognition Class constructor.
+
 [Ja Simran Ja... Krle Model Download... ❤️💞](https://alphacephei.com/vosk/models)
 
 ## Requirements
